@@ -13,5 +13,5 @@ DELAY 250
 STRING $sp=New-Object -ComObject SAPI.SpVoice
 ENTER
 DELAY 250
-STRING $sp.Speak("Bonjour! Evil Inside! Ha Ha Ha Ha Ha Ha")
+STRING $sp.Speak("Hello! You've been HACKED! I have what I need. Toodles! Ha Ha Ha Ha Ha Ha")
 ENTER
