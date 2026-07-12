@@ -1,16 +1,16 @@
-WARNING: Your printer is exposed on port 9100, 
-a port often used for direct print jobs. 
-This port can be easily exploited if left unsecured. 
-Attackers could intercept print jobs, inject malicious content, 
-or even access your entire network.
+WARNING: Your printer has been compromised! 
+You left port 9100 wide open and now I am in your
+network. 9100 is a port often used for direct print jobs. 
 Leaving port 9100 open is like leaving your front door unlocked. 
 It can lead to unauthorized access, data theft, 
 and serious disruptions in your operations. 
-This makes your sensitive documents and network vulnerable.
-We strongly recommend securing your printer 
+I will quietly leave without disturbing anything. 
+Secure your network to prevent intruders.
+I recommend securing your printer 
 and keeping your firmware up to date.
 This is an ethical warning to prevent you to patch this.
-Act now to protect your infrastructure.
+Act now to protect your infrastructure or your next 
+visitor may not be so kind.
 __________________________________________
   "This printer is exposed on 9100!!!"   |
 _________________________________________|
