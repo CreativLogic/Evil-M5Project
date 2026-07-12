@@ -10,11 +10,11 @@ ENTER
 DELAY 2000
 F11
 DELAY 500
-STRING qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop
+STRING you-are-being-hacked-because-your-an-idiot-and-left-your-door-open
 DELAY 500
-STRING qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop
+STRING I-am-taking-all-of-your-nude-pics-and-all-of-your-passwords
 DELAY 500
-STRING qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop
+STRING this-has-been-a-blast-and-I-hope-you-enjoy-the-rest-of-your-night
 DELAY 1500
 RIGHTARROW
 DELAY 1500
